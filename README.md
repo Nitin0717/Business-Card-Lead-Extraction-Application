@@ -50,7 +50,7 @@ Open `http://localhost:3000`.
 
 ## AI Usage
 
-- **Tools used:** v0 / ChatGPT-assisted development.
+- **Tools used:** GPT-5 Mini.
 - **Used for:** UI composition, component structure, accessibility-minded interaction patterns, export workflow, and README architecture draft.
 - **Adopted:** A responsive dashboard layout, semantic lead schema, bulk drag/drop flow, and client-generated Excel export.
 - **Modified or rejected:** I did not claim a live AWS deployment or real VLM inference in the preview because the assignment explicitly requested no deployment. The final production architecture keeps inference server-side rather than exposing model credentials in the browser.
