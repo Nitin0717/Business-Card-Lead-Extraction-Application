@@ -1,6 +1,6 @@
 # Leadforge — Business Card Lead Extraction
 
-A polished Next.js interface for bulk business-card ingestion, structured lead review, and Excel export. The current preview includes representative extracted leads and a fully functional upload/progress/export flow. It is intentionally not deployed, per the assignment request.
+A polished Next.js interface for bulk business-card ingestion, structured lead review, and Excel export. The current preview includes representative extracted leads and a fully functional upload/progress/export flow. 
 
 ## Public URL
 
